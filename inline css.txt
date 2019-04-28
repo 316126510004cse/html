@@ -1,0 +1,18 @@
+﻿<!doctype html>
+<html>
+<head>
+<title>
+inline</title>
+</head>
+<link href="styles.css">
+<body>
+<h1>we are in body </h1>
+<h2 style="color:green;">hello</h2>
+<table>
+<tr>
+<th>name</th>
+<th>sec</th>
+</tr>
+</table>
+</body>
+</html>

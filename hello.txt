@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+<title>
+hello ashok
+</title>
+<head>
+<body bg color="#FFFFFF">
+how are you
+</body>
+</html>
